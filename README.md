@@ -1,7 +1,7 @@
 # Event Management Dashboard
 
 A full-featured Event Management Dashboard built using Flask and MongoDB. This application allows users to manage events, attendees, and tasks, with user-specific data visibility and secure login and registration features.
-
+<a href ="https://www.youtube.com/watch?v=WZ4qFp_NRbg">Complete Demo of the project</a>
 ## Features
 
 - **User Authentication**: Secure login and registration using Flask-Login and Flask-Bcrypt.
