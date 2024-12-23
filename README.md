@@ -20,5 +20,5 @@ Follow these steps to set up and run the project locally.
 git clone https://github.com/kashyapravi07/WebKnot-Assignment.git
 cd WebKnot-Assignment
 
-### 3. Create a Virtual Environment (Optional but Recommended)
+**### 2. Clone the Repository**
 
