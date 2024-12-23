@@ -17,5 +17,8 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/event-management-dashboard.git
-cd event-management-dashboard
+git clone https://github.com/kashyapravi07/WebKnot-Assignment.git
+cd WebKnot-Assignment
+
+### 3. Create a Virtual Environment (Optional but Recommended)
+
